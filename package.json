@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-watermelon",
+  "version": "1.0.0",
+  "description": "help yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hey!no test specified\""
+  },
+  "keywords": [
+    "watermelons"
+  ],
+  "author": "xixi",
+  "license": "ISC"
+}
