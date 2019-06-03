@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-watermelon",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "help yourself",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,10 @@
     "watermelons"
   ],
   "author": "xixi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuJianNi/vue-cli-plugin-watermelon.git"
+  },
+  "homepage": "https://github.com/chuJianNi/vue-cli-plugin-watermelon#readme"
 }
