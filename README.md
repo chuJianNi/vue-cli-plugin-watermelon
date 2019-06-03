@@ -18,5 +18,5 @@ vue add watermelon
 Example
 
 ```js
-`example`
+...
 ```
