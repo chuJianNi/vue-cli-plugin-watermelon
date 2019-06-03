@@ -15,7 +15,7 @@ vue add watermelon
 
 `config`
 
-Example
+# Example
 
 ```js
 ...
